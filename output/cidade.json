@@ -1,0 +1,14 @@
+{
+  "apim-request-id": "d1918632-3b8c-4505-86e7-9ba14bfd97f1",
+  "comprimento do conteúdo": "169",
+  "content-type": "aplicativo/json; charset=utf-8",
+  "modelVersion": "2023-10-01",
+  "captionResult": {
+    "text": "um horizonte de cidade com uma ponte sobre um rio",
+    "confiança": 0,6467819809913635
+  },
+  "metadados": {
+    "largura": 1100,
+    "altura": 600
+  }
+}

@@ -1,0 +1,127 @@
+[
+  {
+    "recognitionModel": "recognition_01",
+    "faceRetângulo": {
+      "largura": 43,
+      "altura": 57,
+      "esquerda": 167,
+      "topo": 21
+    },
+    "faceLandmarks": {
+      "alunoEsquerda": {
+        "x": 179,5,
+        "s": 44,6
+      },
+      "alunoDireito": {
+        "x": 199,9,
+        "s": 45,1
+      },
+      "noseTip": {
+        "x": 188,8,
+        "s": 56,4
+      },
+      "bocaEsquerda": {
+        "x": 181,1,
+        "s": 65,6
+      },
+      "bocaDireita": {
+        "x": 195,8,
+        "s": 66,3
+      },
+      "sobrancelhaEsquerdaOuter": {
+        "x": 174,2,
+        "s": 40,4
+      },
+      "sobrancelhaEsquerdaInner": {
+        "x": 184,6,
+        "s": 40,8
+      },
+      "eyeLeftOuter": {
+        "x": 175,9,
+        "s": 44,5
+      },
+      "eyeLeftTop": {
+        "x": 180,
+        "s": 43,5
+      },
+      "eyeLeftBottom": {
+        "x": 179,
+        "s": 45,4
+      },
+      "eyeLeftInner": {
+        "x": 183,3,
+        "s": 44,9
+      },
+      "sobrancelhaRightInner": {
+        "x": 194,2,
+        "s": 41,4
+      },
+      "sobrancelhaRightOuter": {
+        "x": 205,7,
+        "você": 42
+      },
+      "eyeRightInner": {
+        "x": 196,3,
+        "s": 45,3
+      },
+      "eyeRightTop": {
+        "x": 199,5,
+        "s": 44
+      },
+      "eyeRightBottom": {
+        "x": 200,2,
+        "você": 46
+      },
+      "eyeRightOuter": {
+        "x": 203,7,
+        "s": 45,1
+      },
+      "noseRootLeft": {
+        "x": 186,4,
+        "s": 46,4
+      },
+      "noseRootRight": {
+        "x": 192,4,
+        "s": 46,6
+      },
+      "noseLeftAlarTop": {
+        "x": 184,5,
+        "s": 53,1
+      },
+      "noseRightAlarTop": {
+        "x": 193,6,
+        "s": 53,3
+      },
+      "noseLeftAlarOutTip": {
+        "x": 183,
+        "s": 56,9
+      },
+      "noseRightAlarOutTip": {
+        "x": 194,9,
+        "s": 57,6
+      },
+      "superiorLipTop": {
+        "x": 188,8,
+        "s": 65,3
+      },
+      "superiorLipBottom": {
+        "x": 188,3,
+        "s": 66,5
+      },
+      "underLipTop": {
+        "x": 188,2,
+        "você": 67
+      },
+      "underLipBottom": {
+        "x": 188,2,
+        "você": 69
+      }
+    },
+    "faceAttributes": {
+      "mascarar": {
+        "type": "máscara facial",
+        "noseAndMouthCovered": verdadeiro
+      }
+    }
+  }
+]
